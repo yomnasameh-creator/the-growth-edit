@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://yomnasameh-creator.github.io/the-growth-edit/sitemap.xml
